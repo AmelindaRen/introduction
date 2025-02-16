@@ -7,3 +7,4 @@ skill that need for web dev:
 - React
 - Mongo
 - Laravel
+- vue
