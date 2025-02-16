@@ -1,4 +1,0 @@
-yang dibutuhkan untuk membuat web adalah kemampuan: 
-- HTML
-- CSS
-- Javascript
