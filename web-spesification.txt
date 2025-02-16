@@ -1,7 +1,11 @@
 skill that need for web dev:
+
+*Basic:
 - HTML
 - CSS
 - Javascript
+
+*Tambahan:
 - Bootstrap
 - PHP
 - React
