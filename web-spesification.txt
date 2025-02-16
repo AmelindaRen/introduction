@@ -5,3 +5,4 @@ skill that need for web dev:
 - Bootstrap
 - PHP
 - Laravel
+- Vue
