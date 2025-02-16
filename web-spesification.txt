@@ -4,5 +4,7 @@ skill that need for web dev:
 - Javascript
 - Bootstrap
 - PHP
+- React
+- Mongo
 - Laravel
-- Vue
+- vue
