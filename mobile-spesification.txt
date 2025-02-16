@@ -1,3 +1,5 @@
 kemampuan yang dibutuhkan untuk membangun aplikasi mobile:
 - DART / KOTLIN / REACT NATIVE
 - framework flutter (recomended)
+- firebase
+- authentication
